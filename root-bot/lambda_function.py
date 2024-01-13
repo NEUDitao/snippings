@@ -58,7 +58,8 @@ def format_winner(winner: Winner) -> Optional[Tuple[str, str]]:
 
 
 def get_sheets_data():
-    """Gets the basic root data from the spreadsheet
+    """
+    Gets the basic Root data from the spreadsheet
     """
     gc = gspread.service_account(filename='new_credentials.json')
 
@@ -122,3 +123,5 @@ def lambda_handler(event, context):
         'statusCode': 200,
         'body': json.dumps('Successfully designated a Root Winner! Probably!')
     }
+
+lambda_handler(None, None)
