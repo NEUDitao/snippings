@@ -13,6 +13,9 @@ V1: Updated MG24 (2/8/24 -> 2/13/24)
 - When you give her food, you can use a spoon to get it out of a can.
 - For new cans, just put it in the metal bowl (I wash the metal bowl every
   day). Then, you can put one of the caps on the can  
+- In the case it's been two days, and she still doesn't eat, add an eigth
+  cup of dry food to the bowl, mixing it in with the wet food (she might
+  be extra picky while sad)
 
 # Water
 - There should be enough water in the fountain. If not, take off the top, 
