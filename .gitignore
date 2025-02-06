@@ -2,3 +2,4 @@
 package/
 .venv/
 .env
+no_complaints_here/target/
